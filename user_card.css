@@ -1,0 +1,52 @@
+.container{
+    width: 900px;
+    height: 450px;
+    background-color: black;
+}
+p{
+    color: whitesmoke;
+}
+h1{
+    color: whitesmoke;
+}
+h3{
+    color: whitesmoke;
+}
+.header{
+    width: 900px;
+    height: 25%;
+    background-color: teal;
+}
+h{
+    color: whitesmoke;
+}
+.profile{
+    display: flex;
+    width: 100px;
+    position: absolute;
+    top: 7%;
+    left: 6%;
+}
+.body{
+    padding-left: 10%;
+    padding-top: 3%;
+}
+.map_marker{
+    position: absolute;
+    left: 75px;
+    top: 245px;
+    -webkit-filter: invert(1);
+    filter: invert(1);
+    width: 15px;
+}
+.location{
+    display: flex;
+}
+.gear_icon{
+    position: absolute;
+    left: 75px;
+    width: 15px;
+}
+.edit_profile{
+    display: flex;
+}
